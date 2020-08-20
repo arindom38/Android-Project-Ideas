@@ -1,4 +1,7 @@
 Android
 Flutter
 Node.js
+Python
+Java
+C#
 
